@@ -5,7 +5,6 @@ const LoginScreen = () => {
     <div className="login-container">
       <div className="left-panel">
         <div className="logo-container">
-          {/* Add your logo image here */}
           <img src="/image/logo.png" alt="Logo" className="logo" />
         </div>
         <h1 className="dashboard-title">UPCYCLEIT DASHBOARD</h1>
