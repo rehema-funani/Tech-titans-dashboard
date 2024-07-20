@@ -15,9 +15,14 @@
 .logo-container {
   margin-bottom: 20px;
 }
-.logo {
-  max-width: 100%;
+ .logo {
+   max-width: 100%; 
   height: auto;
+ 
+ 
+} 
+label{
+  margin-right: 268px;
 }
 .dashboard-title {
   font-size: 24px;
@@ -64,6 +69,7 @@
   }
   .left-panel {
     height: 30vh;
+    
   }
   .right-panel {
     height: 70vh;
